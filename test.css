@@ -82,10 +82,3 @@
     align-items: center;
     background: #3d742e;
 }
-
-.text-pink {
-        color: rgb(247, 0, 255);
-        font-size: 50px;
-        display: flex;
-        justify-content: center;    
-}
